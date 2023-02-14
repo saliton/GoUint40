@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Soliton-Analytics-Team/GoUint40/blob/main/GoUint40.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saliton/GoUint40/blob/main/GoUint40.ipynb)
 
 # Go言語で整数を5バイトに押し込む簡単なお仕事
 
